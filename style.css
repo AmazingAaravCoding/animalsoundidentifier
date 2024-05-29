@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+    font-family: "Micro 5 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header_div {
+    background-color: white;
+    color: blueviolet;
+}
+
+.header_div p {
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.copyfooter {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px red;
+}
